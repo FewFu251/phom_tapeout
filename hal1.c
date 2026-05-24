@@ -34,9 +34,8 @@ void set_matrix_sequential_mode() {
 }
 
 int main() {
-    printf("=========================================\n");
-    printf(" AURA PHOTONIC ENGINE - KERNEL BOOT\n");
-    printf("=========================================\n\n");
+    printf(" PHOTONIC ENGINE - KERNEL BOOT\n");
+    
 
      
     printf("[SYS] Hardware Abstraction Layer successfully compiled.\n");
