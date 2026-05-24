@@ -22,4 +22,4 @@ This proof-of-concept tile implements a 4-ring programmable photonic matrix util
 * **Pad 5 (e15):** Global Common Ground (N-Junction Return)
 
 ## Software Interface
-Included `photonic_hal.c` demonstrates the procedural memory-mapped I/O required to tune the local ring arrays while maintaining global thermal stabilization.
+Included `hal1.c` demonstrates the procedural memory-mapped I/O required to tune the local ring arrays while maintaining global thermal stabilization.
